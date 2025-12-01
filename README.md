@@ -1,16 +1,29 @@
-# login_ui_app
+## Flutter Login & Sign-Up Screens
+This project includes two Flutter UI screens — **Login Page** and **Sign-Up Page** — created as part of a university assignment. The layout and structure follow the provided reference image, with customized colors and clean UI components.
 
-Flutter project for login and signup UI task
+### 📌 Features
+- Login Page UI  
+- Sign-Up Page UI  
+- Smooth navigation between pages  
+- Modern, minimal layout  
+- Beginner-friendly code structure  
 
-## Getting Started
+### 📂 Files Included
+- `login_page.dart`  
+- `signup_page.dart`  
 
-This project is a starting point for a Flutter application.
+### 🛠️ Technologies Used
+- Flutter  
+- Dart  
 
-A few resources to get you started if this is your first Flutter project:
+### ▶️ How to Run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter pub get
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+
+### 🎯 Purpose
+Designed for learning and practicing Flutter UI development as part of an academic task.
+```
